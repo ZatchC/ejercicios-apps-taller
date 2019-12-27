@@ -1,0 +1,194 @@
+.Rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    background-color: fff;
+    border: 5px solid #FF0000;
+    box-sizing: border-box;    
+}
+
+.Rectangle2 {
+    position: absolute;
+    width: 447px;
+    height: 1013px;
+    left: 13px;
+    top: 13px;
+    background: #FFFFFF;
+    border: 5px solid #5DFF11;
+    box-sizing: border-box;
+}
+
+.Rectangle3 {
+    position: absolute;
+    width: 437px;
+    height: 765px;
+    left: 18px;
+    top: 257px;
+    
+
+    
+    background: #FFFFFF;
+    border: 5px solid #FBFF3E;
+    box-sizing: border-box;
+}
+.Rectangle4 {
+    position: absolute;
+    width: 438px;
+    height: 240px;
+    left: 17px;
+    top: 17px;
+    background: #FFFFFF;
+    border: 7px solid #2400FF;
+    box-sizing: border-box;
+
+
+}
+
+.Rectangle5 {
+    position: absolute;
+    width: 427px;
+    height: 143px;
+    left: 23;
+    top: 266;
+    background: #FFFFFF;
+    border: 5px solid #2EFFFF;
+    box-sizing: border-box;
+
+}
+
+.Rectangle6 {
+    position: absolute;
+    width: 427px;
+    height: 143px;
+    left: 23;
+    top: 690;
+    background: #FFFFFF;
+    border: 5px solid #2EFFFF;
+    box-sizing: border-box;
+
+}
+
+.Rectangle7 {
+    position: absolute;
+    width: 427px;
+    height: 143px;
+    left: 23;
+    top: 409;
+    background: #FFFFFF;
+    border: 5px solid #2EFFFF;
+    box-sizing: border-box;
+
+}
+
+.Rectangle8 {
+    position: absolute;
+    width: 427px;
+    height: 143px;
+    left: 23;
+    top: 549;
+    background: #FFFFFF;
+    border: 5px solid #2EFFFF;
+    box-sizing: border-box;
+
+}
+
+.Rectangle9 {
+    position: absolute;
+    width: 427px;
+    height: 143px;
+    left: 23;
+    top: 832;
+    background: #FFFFFF;
+    border: 5px solid #2EFFFF;
+    box-sizing: border-box;
+}
+
+.Rectangle10 {
+    position: absolute;
+    width: 983px;
+    height: 1013px;
+    left: 459;
+    top: 13px;    
+    background: #FFFFFF;
+    border: 5px solid #E01FFF;
+    box-sizing: border-box;
+}
+
+.Rectangle11{
+    position: absolute;
+    width: 970px;
+    height: 760px;
+    left: 464px;
+    top: 260px;  
+    background: #FFFFFF;
+    border: 5px solid #00F0FF;
+    box-sizing: border-box;
+}
+.rectangle12 {
+    position: absolute;
+    width: 960px;
+    height: 146px;
+    left: 470;
+    top: 870px; 
+    background: #FFFFFF;
+    border: 5px solid #158C12;
+    box-sizing: border-box;
+}
+.rectangle13{
+    position: absolute;
+    width: 960px;
+    height: 605px;
+    left: 470;
+    top: 265px; 
+    background: #FFFFFF;
+    border: 5px solid #717171;
+    box-sizing: border-box;
+
+}
+.rectangle14{
+
+    position: absolute;
+    width: 973px;
+    height: 242px;
+    left: 464;
+    top: 18px;
+    
+    background: #FFFFFF;
+    border: 5px solid #2400FF;
+    box-sizing: border-box;
+
+}
+
+h1{
+
+    text-align: center;
+    position: relative;
+    top: 65;
+}
+
+h2{
+
+ position: relative;
+ top:  75px;
+ left: 18;
+
+}
+
+input{
+
+ position: relative;
+ height: 136px;
+ width: 950;
+ font-family: Roboto;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 36px;
+ line-height: 42px;
+ color: #8F8F8F;
+}
+
+::placeholder {
+
+    position: relative;
+    left: 40;
+}
